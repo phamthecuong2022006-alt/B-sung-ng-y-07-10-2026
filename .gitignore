@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+*.user
+wwwroot/images/books/*
+!wwwroot/images/books/.gitkeep
